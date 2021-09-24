@@ -1,0 +1,107 @@
+body{
+    background-color:white;
+    font-size: 23px;
+    color: black;
+    font-family: Martel Heavy;
+  }
+  .colP{
+    margin-left: 200px;
+    width: 1500px;
+    height: 470px;
+    background-color:#3C5D79;
+    float:left; 
+    margin-top: 50px;
+    border: solid black;
+    
+  }
+  .til{
+    color:#F4D3CC;
+    font-size: 100px;
+    margin-left: 750px;
+    margin-right: 20px;
+  
+  }
+  .container {
+    margin-left: 60px;
+    background-color:#F4D3CC;
+    width: 550px;
+    height: 1450px;
+    margin-top: -190px;
+    float:left; 
+    border: solid black;
+  }
+  .miCara {
+    width:350px;
+    height:350px;
+  margin-left: 70px;
+  margin-top: 20px;
+  
+  }
+  .container h1{
+    color:black;
+    font-size: 35px;
+    text-align:center;
+    margin-left: 70px;
+    margin-right: 70px;
+  
+  
+  }
+  .container li, p,h3 {
+    color: black;
+    font-size: 23px;
+    margin-left: 70px;
+    margin-right: 70px;
+  }
+  
+  .col{
+    width: 1500px;
+    background-color:whitesmoke;
+    height: 1200px;
+    margin-top: 220px;
+    border: solid black;
+    margin-left: -6px;
+  }
+  .titulo{
+    background-color:#F4D3CC;
+    color:black;
+    font-size: 40px;
+    text-align:center;
+    margin-left: 680px;
+    
+  }
+  .texto{
+    margin-left: 680px;
+    margin-right: 20px;
+  }
+  .texto1{
+    margin-left: 680px;
+    margin-right: 20px;
+    color: white;
+    text-align: center;
+  }
+  .col h1{
+    margin-left: 670px;
+    color:black;
+    background-color:#F4D3CC;
+    margin-right: 100px;
+    text-align: center;
+  
+  }
+  .boton{
+    margin-left: 1000px;
+    width: 500px;
+  }
+  
+  .col8{
+    width: 500px;
+    height: 400px;
+    text-align: center;
+  }
+  .hola{
+    background-color: #F4D3CC;
+    width: 100px;
+    height: 50px;
+    border-radius: 20px;
+  }
+  
+  
