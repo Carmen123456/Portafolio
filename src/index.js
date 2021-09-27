@@ -26,7 +26,7 @@ ReactDOM.render(
         <Route path="/portafolio">
           <Portafolio />
         </Route>
-        <Route exact path="/">
+        <Route path="/">
             <Home />
         </Route>
 
